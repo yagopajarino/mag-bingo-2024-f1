@@ -1,0 +1,321 @@
+[
+    {
+        "nombre": "alemania",
+        "año": 2014,
+        "comentario": "campeon vs argentina"
+    },
+    {
+        "nombre": "argentina",
+        "año": 1986,
+        "comentario": "el mundial de la mano de dios. Último mundial ganado por Argentina. 3-2 la final vs Alemania"
+    },
+    {
+        "nombre": "francia",
+        "año": 2018 
+    },
+    {
+        "nombre": "españa",
+        "año": 2010,
+        "comentario": "Ganador, final ganada a holanda 1-0 en el alargue"
+    },
+    {
+        "nombre": "italia",
+        "año": 2006,
+        "comentario": "5-3 en los penales vs francia"
+    },
+    {
+        "nombre": "brasil",
+        "año": 2002,
+        "comentario": "El único en jugar todos los mundiales (22) y el mayor ganador de la historia (5)"
+    },
+    {
+        "nombre": "inglaterra",
+        "año": 1966
+    },
+    {
+        "nombre": "uruguay",
+        "año": 1950,
+        "comentario": "Maracanazo ganando la final a Brasil" 
+    },
+    {
+        "nombre": "países bajos",
+        "año": 1978,
+        "comentario": "final vs argentina"
+    },
+    {
+        "nombre": "suecia",
+        "año": 1994
+    },
+    {
+        "nombre": "belgica",
+        "año": 2018,
+        "comentario": "3er puesto, mejor resultado"
+    },
+    {
+        "nombre": "urss",
+        "año": 1966,
+        "comentario": "4to lugar mejor resultado, Lev Yashin el mejor arquero de la historia"
+    },
+    {
+        "nombre": "yugoslavia",
+        "año": 1962,
+        "comentario": "participó como yugoslavia, serbia y montenegro, serbia"
+    },
+    {
+        "nombre": "mexico",
+        "año": 1970,
+        "comentario": "maximo organizador (3 veces organizador 1970, 1986, 2026)"
+    },
+    {
+        "nombre": "polonia",
+        "año": 1982
+    },
+    {
+        "nombre": "portugal",
+        "año": 1966,
+        "comentario": "Mejor resultado 3er lugar. goleador del mundial: Eusebio 9 goles"
+    },
+    {
+        "nombre": "hungría",
+        "año": 1954,
+        "comentario": "Mayor cantidad de goles en un solo mundial (27)"
+    },
+    {
+        "nombre": "suiza",
+        "año": 1994
+    },
+    {
+        "nombre": "checoslovaquia",
+        "año": 1962,
+        "comentario": "Hoy republica checa"
+    },
+    {
+        "nombre": "austria",
+        "año": 1998
+    },
+    {
+        "nombre": "chile",
+        "año": 1962,
+        "comentario": "organizador, 3er lugar mejor resultado"
+    },
+    {
+        "nombre": "croacia",
+        "año": 2018,
+        "comentario": "subcampeon, mejor resultado. No existía hasta 1998"
+    },
+    {
+        "nombre": "dinamarca",
+        "año": 2002
+    },
+    {
+        "nombre": "paraguay",
+        "año": 2010
+    }, 
+    {
+        "nombre": "colombia",
+        "año": 1990
+    },
+    {
+        "nombre": "estados unidos",
+        "año": 1930,
+        "comentario": "3er lugar"
+    },
+    {
+        "nombre": "rumania",
+        "año": 1994
+    },
+    {
+        "nombre": "corea del sur",
+        "año": 2002,
+        "comentario": "organizador, 4to puesto"
+    },
+    {
+        "nombre": "nigeria",
+        "año": 1998
+    },
+    {
+        "nombre": "japon",
+        "año": 2006
+    },
+    {
+        "nombre": "costa rica",
+        "año": 2014,
+        "comentario": "cuartos de final, mejor resultado"
+    },
+    {
+        "nombre": "escocia",
+        "año": 1974
+    },
+    {
+        "nombre": "camerun",
+        "año": 1990,
+        "comentario": "Camerún 1 - 0 argentina en fase de grupos"
+    },
+    {
+        "nombre": "peru",
+        "año": 1970
+    },
+    {
+        "nombre": "bulgaria",
+        "año": 1994,
+        "comentario": "cuarto puesto, mejor resultado"
+    },
+    {
+        "nombre": "turquia",
+        "año": 2002,
+        "comentario": "3er puesto"
+    },
+    {
+        "nombre": "ghana",
+        "año": 2010
+    },
+    {
+        "nombre": "irlanda",
+        "año": 2002,
+        "comentario": "jugó 3 mundiales, siempre pasó fase de grupos"
+    },
+    {
+        "nombre": "ecuador",
+        "año": 2006 
+    },
+    {
+        "nombre": "senegal",
+        "año": 2002
+    },
+    {
+        "nombre": "argelia",
+        "año": 1982
+    },
+    {
+        "nombre": "marruecos",
+        "año": 1958,
+        "comentario": "Just Fontaine mayor goleador en un mundial (13)"
+    },
+    {
+        "nombre": "arabia",
+        "año": 1994
+    },
+    {
+        "nombre": "costa de marfil",
+        "año": 2006
+    },
+    {
+        "nombre": "sudafrica",
+        "año": 2010,
+        "comentario": "Prganizador, primer mundial en país africano" 
+    },
+    {
+        "nombre": "tunez",
+        "año": 1978
+    },
+    {
+        "nombre": "iran",
+        "año": 2014
+    },
+    {
+        "nombre": "australia",
+        "año": 2006
+    },
+    {
+        "nombre": "noruega",
+        "año": 1994
+    },
+    {
+        "nombre": "grecia",
+        "año": 2014
+    },
+    {
+        "nombre": "ucrania",
+        "año": 2006,
+        "comentario": "unico mundial que jugó, llegó a cuartos de final"
+    },
+    {
+        "nombre": "gales",
+        "año": 2022,
+        "comentario": "cábala la forma en que se sacan la foto de equipo"
+    },
+    {
+        "nombre": "cuba",
+        "año": 1938,
+        "comentario": "unico mundial que jugó" 
+    },
+    {
+        "nombre": "jamaica",
+        "año": 1998
+    },
+    {
+        "nombre": "nueva zelanda",
+        "año": 1982
+    },
+    {
+        "nombre": "honduras",
+        "año": 1982 
+    },
+    {
+        "nombre": "angola",
+        "año": 2006
+    },
+    {
+        "nombre": "israel",
+        "año": 1970,
+        "comentario": "Único mundial que jugó"
+    },
+    {
+        "nombre": "egipto",
+        "año": 2018
+    },
+    {
+        "nombre": "islandia",
+        "año": 2018,
+        "comentario": "empate con argentina en fase de grupos"
+    },
+    {
+        "nombre": "trinidad y tobago",
+        "año": 2006
+    },
+    {
+        "nombre": "bolivia",
+        "año": 1994
+    },
+    {
+        "nombre": "irak",
+        "año": 1986
+    },
+    {
+        "nombre": "togo",
+        "año": 2006
+    },
+    {
+        "nombre": "canada",
+        "año": 1986
+    },
+    {
+        "nombre": "panama",
+        "año": 2018
+    },
+    {
+        "nombre": "china",
+        "año": 2002
+    },
+    {
+        "nombre": "haiti",
+        "año": 1974
+    },
+    {
+        "nombre": "el salvador",
+        "año": 1978
+    },
+    {
+        "nombre": "qatar",
+        "año": 2022
+    },
+    {
+        "nombre": "indonesia",
+        "año": 1938,
+        "comentario": "Participó con el nombre de Indias Orientales Neerlandesas"
+    },
+    {
+        "nombre": "emiratos arabes",
+        "año": 1990
+    }
+]

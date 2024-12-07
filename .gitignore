@@ -1,0 +1,6 @@
+server/data/img*
+**/.DS_Store
+**/node_modules
+**/.venv
+cartones/jugadores
+cartones/paises

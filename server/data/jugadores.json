@@ -1,0 +1,632 @@
+[
+  {
+    "Nombre": "Messi, Lionel",
+    "Partidos": 165,
+    "Goles": 91,
+    "Desde": 2005,
+    "Hasta": ""
+  },
+  {
+    "Nombre": "Mascherano, Javier",
+    "Partidos": 147,
+    "Goles": 3,
+    "Desde": 2003,
+    "Hasta": 2018
+  },
+  {
+    "Nombre": "Zanetti, Javier",
+    "Partidos": 143,
+    "Goles": 4,
+    "Desde": 1994,
+    "Hasta": 2011
+  },
+  {
+    "Nombre": "Di María, Ángel",
+    "Partidos": 124,
+    "Goles": 27,
+    "Desde": 2008,
+    "Hasta": ""
+  },
+  {
+    "Nombre": "Ayala, Roberto",
+    "Partidos": 116,
+    "Goles": 7,
+    "Desde": 1994,
+    "Hasta": 2007
+  },
+  {
+    "Nombre": "Simeone, Diego",
+    "Partidos": 108,
+    "Goles": 11,
+    "Desde": 1988,
+    "Hasta": 2002
+  },
+  {
+    "Nombre": "Agüero, Sergio",
+    "Partidos": 101,
+    "Goles": 41,
+    "Desde": 2006,
+    "Hasta": 2021
+  },
+  {
+    "Nombre": "Ruggeri, Oscar",
+    "Partidos": 97,
+    "Goles": 7,
+    "Desde": 1983,
+    "Hasta": 1994
+  },
+  {
+    "Nombre": "Romero, Sergio",
+    "Partidos": 96,
+    "Goles": -69,
+    "Desde": 2009,
+    "Hasta": 2018
+  },
+  {
+    "Nombre": "Otamendi, Nicolás",
+    "Partidos": 93,
+    "Goles": 4,
+    "Desde": 2009,
+    "Hasta": ""
+  },
+  {
+    "Nombre": "Maradona, Diego",
+    "Partidos": 91,
+    "Goles": 34,
+    "Desde": 1977,
+    "Hasta": 1994
+  },
+  {
+    "Nombre": "Ortega, Ariel",
+    "Partidos": 90,
+    "Goles": 17,
+    "Desde": 1993,
+    "Hasta": 2010
+  },
+  {
+    "Nombre": "Batistuta, Gabriel",
+    "Partidos": 78,
+    "Goles": 56,
+    "Desde": 1991,
+    "Hasta": 2002
+  },
+  {
+    "Nombre": "Sorín, Juan Pablo",
+    "Partidos": 76,
+    "Goles": 12,
+    "Desde": 1998,
+    "Hasta": 2006
+  },
+  {
+    "Nombre": "Tévez, Carlos",
+    "Partidos": 76,
+    "Goles": 13,
+    "Desde": 2004,
+    "Hasta": 2015
+  },
+  {
+    "Nombre": "Higuaín, Gonzalo",
+    "Partidos": 75,
+    "Goles": 32,
+    "Desde": 2009,
+    "Hasta": 2018
+  },
+  {
+    "Nombre": "Veron, Juan Sebastián",
+    "Partidos": 75,
+    "Goles": 10,
+    "Desde": 1996,
+    "Hasta": 2011
+  },
+  {
+    "Nombre": "Gallego, Américo",
+    "Partidos": 73,
+    "Goles": 3,
+    "Desde": 1975,
+    "Hasta": 1982
+  },
+  {
+    "Nombre": "Heinze, Gabriel",
+    "Partidos": 73,
+    "Goles": 3,
+    "Desde": 2003,
+    "Hasta": 2011
+  },
+  {
+    "Nombre": "Passarella, Daniel",
+    "Partidos": 70,
+    "Goles": 23,
+    "Desde": 1976,
+    "Hasta": 1986
+  },
+  {
+    "Nombre": "Banega, Éver",
+    "Partidos": 65,
+    "Goles": 6,
+    "Desde": 2008,
+    "Hasta": 2018
+  },
+  {
+    "Nombre": "Crespo, Hernán",
+    "Partidos": 64,
+    "Goles": 35,
+    "Desde": 1995,
+    "Hasta": 2008
+  },
+  {
+    "Nombre": "Ardiles, Osvaldo",
+    "Partidos": 63,
+    "Goles": 8,
+    "Desde": 1975,
+    "Hasta": 1982
+  },
+  {
+    "Nombre": "Gago, Fernando",
+    "Partidos": 61,
+    "Goles": 0,
+    "Desde": 2007,
+    "Hasta": 2017
+  },
+  {
+    "Nombre": "Rojo, Marcos",
+    "Partidos": 61,
+    "Goles": 3,
+    "Desde": 2011,
+    "Hasta": 2019
+  },
+  {
+    "Nombre": "Tarantini, Alberto",
+    "Partidos": 61,
+    "Goles": 1,
+    "Desde": 1974,
+    "Hasta": 1982
+  },
+  {
+    "Nombre": "Olgín, Jorge",
+    "Partidos": 60,
+    "Goles": 0,
+    "Desde": 1976,
+    "Hasta": 1982
+  },
+  {
+    "Nombre": "Sensini, Roberto",
+    "Partidos": 60,
+    "Goles": 0,
+    "Desde": 1987,
+    "Hasta": 2000
+  },
+  {
+    "Nombre": "Burruchaga, Jorge",
+    "Partidos": 59,
+    "Goles": 13,
+    "Desde": 1983,
+    "Hasta": 1990
+  },
+  {
+    "Nombre": "Biglia, Lucas",
+    "Partidos": 58,
+    "Goles": 1,
+    "Desde": 2011,
+    "Hasta": 2018
+  },
+  {
+    "Nombre": "Fillol, Ubaldo",
+    "Partidos": 58,
+    "Goles": -52,
+    "Desde": 1974,
+    "Hasta": 1985
+  },
+  {
+    "Nombre": "López, Claudio Javier",
+    "Partidos": 58,
+    "Goles": 14,
+    "Desde": 1995,
+    "Hasta": 2003
+  },
+  {
+    "Nombre": "Zabaleta, Pablo",
+    "Partidos": 58,
+    "Goles": 0,
+    "Desde": 2005,
+    "Hasta": 2016
+  },
+  {
+    "Nombre": "Rodríguez, Maximiliano",
+    "Partidos": 57,
+    "Goles": 16,
+    "Desde": 2003,
+    "Hasta": 2015
+  },
+  {
+    "Nombre": "Samuel, Walter",
+    "Partidos": 57,
+    "Goles": 5,
+    "Desde": 1999,
+    "Hasta": 2011
+  },
+  {
+    "Nombre": "González, Cristian",
+    "Partidos": 56,
+    "Goles": 10,
+    "Desde": 1995,
+    "Hasta": 2005
+  },
+  {
+    "Nombre": "Houseman, René",
+    "Partidos": 55,
+    "Goles": 13,
+    "Desde": 1973,
+    "Hasta": 1979
+  },
+  {
+    "Nombre": "Aimar, Pablo",
+    "Partidos": 53,
+    "Goles": 8,
+    "Desde": 1999,
+    "Hasta": 2011
+  },
+  {
+    "Nombre": "Giusti, Ricardo",
+    "Partidos": 53,
+    "Goles": 0,
+    "Desde": 1983,
+    "Hasta": 1990
+  },
+  {
+    "Nombre": "Cambiasso, Esteban",
+    "Partidos": 52,
+    "Goles": 5,
+    "Desde": 2000,
+    "Hasta": 2011
+  },
+  {
+    "Nombre": "Demichelis, Martín",
+    "Partidos": 51,
+    "Goles": 2,
+    "Desde": 2005,
+    "Hasta": 2016
+  },
+  {
+    "Nombre": "Lavezzi, Ezequiel",
+    "Partidos": 51,
+    "Goles": 10,
+    "Desde": 2007,
+    "Hasta": 2016
+  },
+  {
+    "Nombre": "Riquelme, Juan Román",
+    "Partidos": 51,
+    "Goles": 17,
+    "Desde": 1997,
+    "Hasta": 2008
+  },
+  {
+    "Nombre": "Caniggia, Claudio",
+    "Partidos": 50,
+    "Goles": 16,
+    "Desde": 1987,
+    "Hasta": 2002
+  },
+  {
+    "Nombre": "Abbondanzieri, Roberto",
+    "Partidos": 49,
+    "Goles": -45,
+    "Desde": 2004,
+    "Hasta": 2008
+  },
+  {
+    "Nombre": "Burdisso, Nicolás",
+    "Partidos": 49,
+    "Goles": 2,
+    "Desde": 2003,
+    "Hasta": 2011
+  },
+  {
+    "Nombre": "Brindisi, Miguel Ángel",
+    "Partidos": 46,
+    "Goles": 17,
+    "Desde": 1969,
+    "Hasta": 1974
+  },
+  {
+    "Nombre": "Paredes, Leandro",
+    "Partidos": 46,
+    "Goles": 4,
+    "Desde": 2017,
+    "Hasta": ""
+  },
+  {
+    "Nombre": "Gallardo, Marcelo",
+    "Partidos": 45,
+    "Goles": 16,
+    "Desde": 1994,
+    "Hasta": 2003
+  },
+  {
+    "Nombre": "González, Luis",
+    "Partidos": 45,
+    "Goles": 7,
+    "Desde": 2003,
+    "Hasta": 2011
+  },
+  {
+    "Nombre": "Luque, Leopoldo",
+    "Partidos": 45,
+    "Goles": 22,
+    "Desde": 1975,
+    "Hasta": 1981
+  },
+  {
+    "Nombre": "Goycochea, Sergio",
+    "Partidos": 44,
+    "Goles": -39,
+    "Desde": 1987,
+    "Hasta": 1994
+  },
+  {
+    "Nombre": "Salomón, José",
+    "Partidos": 44,
+    "Goles": 0,
+    "Desde": 1940,
+    "Hasta": 1946
+  },
+  {
+    "Nombre": "Acuña, Marcos",
+    "Partidos": 43,
+    "Goles": 1,
+    "Desde": 2016,
+    "Hasta": ""
+  },
+  {
+    "Nombre": "Chamot, José",
+    "Partidos": 43,
+    "Goles": 2,
+    "Desde": 1993,
+    "Hasta": 2002
+  },
+  {
+    "Nombre": "Corbata, Orestes",
+    "Partidos": 43,
+    "Goles": 18,
+    "Desde": 1956,
+    "Hasta": 1962
+  },
+  {
+    "Nombre": "Kempes, Mario",
+    "Partidos": 43,
+    "Goles": 20,
+    "Desde": 1973,
+    "Hasta": 1982
+  },
+  {
+    "Nombre": "De Paul, Rodrigo",
+    "Partidos": 42,
+    "Goles": 2,
+    "Desde": 2018,
+    "Hasta": ""
+  },
+  {
+    "Nombre": "Milito, Gabriel",
+    "Partidos": 42,
+    "Goles": 1,
+    "Desde": 2003,
+    "Hasta": 2011
+  },
+  {
+    "Nombre": "Roma, Antonio",
+    "Partidos": 42,
+    "Goles": -37,
+    "Desde": 1956,
+    "Hasta": 1967
+  },
+  {
+    "Nombre": "Tagliafico, Nicolás",
+    "Partidos": 42,
+    "Goles": 0,
+    "Desde": 2017,
+    "Hasta": ""
+  },
+  {
+    "Nombre": "Vivas, Nelson",
+    "Partidos": 42,
+    "Goles": 1,
+    "Desde": 1994,
+    "Hasta": 2003
+  },
+  {
+    "Nombre": "Garré, Oscar",
+    "Partidos": 41,
+    "Goles": 0,
+    "Desde": 1983,
+    "Hasta": 1988
+  },
+  {
+    "Nombre": "Vairo, Federico",
+    "Partidos": 41,
+    "Goles": 1,
+    "Desde": 1955,
+    "Hasta": 1958
+  },
+  {
+    "Nombre": "Valencia, José",
+    "Partidos": 41,
+    "Goles": 5,
+    "Desde": 1975,
+    "Hasta": 1982
+  },
+  {
+    "Nombre": "Almeyda, Matías",
+    "Partidos": 40,
+    "Goles": 5,
+    "Desde": 1996,
+    "Hasta": 2003
+  },
+  {
+    "Nombre": "Saviola, Javier",
+    "Partidos": 40,
+    "Goles": 11,
+    "Desde": 2000,
+    "Hasta": 2010
+  },
+  {
+    "Nombre": "Albrecht, Rafael",
+    "Partidos": 39,
+    "Goles": 3,
+    "Desde": 1963,
+    "Hasta": 1969
+  },
+  {
+    "Nombre": "Batista, Sergio",
+    "Partidos": 39,
+    "Goles": 0,
+    "Desde": 1985,
+    "Hasta": 1990
+  },
+  {
+    "Nombre": "Lo Celso, Giovani",
+    "Partidos": 39,
+    "Goles": 2,
+    "Desde": 2017,
+    "Hasta": ""
+  },
+  {
+    "Nombre": "Martínez, Lautaro",
+    "Partidos": 39,
+    "Goles": 21,
+    "Desde": 2018,
+    "Hasta": ""
+  },
+  {
+    "Nombre": "Burgos, Germán",
+    "Partidos": 38,
+    "Goles": -26,
+    "Desde": 1995,
+    "Hasta": 2002
+  },
+  {
+    "Nombre": "Calomino, Pedro",
+    "Partidos": 38,
+    "Goles": 5,
+    "Desde": 1912,
+    "Hasta": 1924
+  },
+  {
+    "Nombre": "Coloccini, Fabricio",
+    "Partidos": 38,
+    "Goles": 1,
+    "Desde": 2003,
+    "Hasta": 2011
+  },
+  {
+    "Nombre": "Pumpido, Nery",
+    "Partidos": 38,
+    "Goles": -32,
+    "Desde": 1983,
+    "Hasta": 1990
+  },
+  {
+    "Nombre": "Tesoriere, Américo",
+    "Partidos": 38,
+    "Goles": -32,
+    "Desde": 1919,
+    "Hasta": 1925
+  },
+  {
+    "Nombre": "Balbo, Abel",
+    "Partidos": 37,
+    "Goles": 11,
+    "Desde": 1989,
+    "Hasta": 1998
+  },
+  {
+    "Nombre": "Guidi, Juan",
+    "Partidos": 37,
+    "Goles": 0,
+    "Desde": 1956,
+    "Hasta": 1961
+  },
+  {
+    "Nombre": "Labruna, Ángel",
+    "Partidos": 37,
+    "Goles": 17,
+    "Desde": 1942,
+    "Hasta": 1958
+  },
+  {
+    "Nombre": "Lombardo, Francisco",
+    "Partidos": 37,
+    "Goles": 0,
+    "Desde": 1952,
+    "Hasta": 1959
+  },
+  {
+    "Nombre": "López, Gustavo",
+    "Partidos": 37,
+    "Goles": 4,
+    "Desde": 1994,
+    "Hasta": 2003
+  },
+  {
+    "Nombre": "Más, Oscar",
+    "Partidos": 37,
+    "Goles": 10,
+    "Desde": 1965,
+    "Hasta": 1972
+  },
+  {
+    "Nombre": "Perfumo, Roberto",
+    "Partidos": 37,
+    "Goles": 0,
+    "Desde": 1966,
+    "Hasta": 1974
+  },
+  {
+    "Nombre": "Brown, José Luis",
+    "Partidos": 36,
+    "Goles": 1,
+    "Desde": 1983,
+    "Hasta": 1990
+  },
+  {
+    "Nombre": "Dellacha, Pedro",
+    "Partidos": 35,
+    "Goles": 0,
+    "Desde": 1953,
+    "Hasta": 1958
+  },
+  {
+    "Nombre": "Fischer, Rodolfo",
+    "Partidos": 35,
+    "Goles": 12,
+    "Desde": 1967,
+    "Hasta": 1972
+  },
+  {
+    "Nombre": "García, Enrique",
+    "Partidos": 35,
+    "Goles": 9,
+    "Desde": 1935,
+    "Hasta": 1943
+  },
+  {
+    "Nombre": "Sastre, Antonio",
+    "Partidos": 35,
+    "Goles": 6,
+    "Desde": 1935,
+    "Hasta": 1941
+  },
+  {
+    "Nombre": "Bidoglio, Ludovico",
+    "Partidos": 34,
+    "Goles": 0,
+    "Desde": 1921,
+    "Hasta": 1928
+  },
+  {
+    "Nombre": "Delgado, Marcelo",
+    "Partidos": 34,
+    "Goles": 9,
+    "Desde": 1995,
+    "Hasta": 2001
+  }
+]
