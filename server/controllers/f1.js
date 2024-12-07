@@ -1,34 +1,33 @@
 import fs from "fs";
 import { shuffle } from "../helpers.js";
 
-const jugadores = (req, res, next) => {
-  const data = getJugadores();
+const f1 = (req, res, next) => {
+  const data = getf1();
   res.send({
     data: shuffle(data),
   });
 };
 
-const getJugadores = () => {
-  let rawdata = fs.readFileSync("data/jugadores.json");
+const getf1 = () => {
+  let rawdata = fs.readFileSync("data/f1.json");
   let data = JSON.parse(rawdata);
   return data;
 };
 
 const foto = (req, res, next) => {
-  const nombre = req.body.Nombre;
-  if (nombre == undefined) {
+  const id = req.body.id;
+  if (id == undefined) {
     res.send({ res: "no data" });
   }
-  const imgNombre = nombre.toLowerCase().replace(",", "").split(" ").join("_");
-  const img = `./data/img_jugadores/${imgNombre}.jpeg`;
+  const img = `./data/img_f1/${id}.jpg`;
   res.sendFile(img, { root: "./" });
 };
 
 const checkImages = (req, res, next) => {
-  const data = getJugadores();
+  const data = getf1();
   const conFoto = data.map((i) => {
-    const nombre = i.Nombre.toLowerCase().replace(",", "").split(" ").join("_");
-    const url = `./data/img_jugadores/${nombre}.jpeg`;
+    const id = i.id;
+    const url = `./data/img_f1/${id}.jpeg`;
     if (!fs.existsSync(url)) {
       return url;
     }
@@ -37,7 +36,7 @@ const checkImages = (req, res, next) => {
 };
 
 const controller = {
-  jugadores,
+  f1,
   foto,
   checkImages,
 };
