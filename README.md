@@ -12,7 +12,7 @@ Contiene un tablero dígital que permite llevar el control de los números que s
 
 ### Server
 
-Backend con la data (`server/data`) de países y jugadores que utiliza el cliente y la impresión de cartones. Toma imagenes de países y jugadores de los directorios `server/data/img_jugadores` e `server/data/img_paises` no pusheados al repo.
+Backend con la data (`server/data`) de países y jugadores que utiliza el cliente y la impresión de cartones.
 
 Diseñado con express.js permite obtener el listado de países, jugadores y la foto de cada jugador/país.
 
