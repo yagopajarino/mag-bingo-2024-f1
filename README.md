@@ -1,6 +1,6 @@
-# MAG bingo mundialista
+# MAG Bingo Fórmula 1
 
-Bingo temático mundial Qatar 2022.
+Bingo temático fórmula 1 para evento 2024.
 
 Incluye código necesario para imprimir cartones y jugar bingos de selecciones históricas participantes de mundiales y jugadores argentinos históricos.
 
