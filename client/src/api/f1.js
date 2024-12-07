@@ -1,13 +1,13 @@
-const getPaises = async () => {
-  const url = process.env.REACT_APP_API_ENDPOINT + "/paises";
+const getAll = async () => {
+  const url = process.env.REACT_APP_API_ENDPOINT + "/f1";
   const result = await fetch(url).then((r) => r.json());
   return result.data;
 };
 
-const getFoto = async (nombre) => {
-  const url = process.env.REACT_APP_API_ENDPOINT + "/paises/foto";
+const getFoto = async (id) => {
+  const url = process.env.REACT_APP_API_ENDPOINT + "/f1/foto";
   const data = JSON.stringify({
-    nombre: nombre,
+    id: id,
   });
   const result = await fetch(url, {
     method: "POST",
@@ -19,9 +19,9 @@ const getFoto = async (nombre) => {
   return result;
 };
 
-const paises = {
-  getPaises,
+const f1 = {
+  getAll,
   getFoto,
 };
 
-export default paises;
+export default f1;

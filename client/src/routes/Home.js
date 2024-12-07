@@ -10,6 +10,9 @@ export default function Home() {
       <Link to={"../paises"} className="w-1/3 h-full">
         <GameSelector>Paises</GameSelector>
       </Link>
+      <Link to={"../f1"} className="w-1/3 h-full">
+        <GameSelector>F1</GameSelector>
+      </Link>
     </div>
   );
 }

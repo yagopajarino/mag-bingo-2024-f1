@@ -1,9 +1,7 @@
-import jugadores from "./jugadores";
-import paises from "./paises";
+import f1 from "./f1";
 
 const api = {
-  jugadores,
-  paises,
+  f1,
 };
 
 export default api;

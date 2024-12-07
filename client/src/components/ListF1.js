@@ -1,12 +1,12 @@
 import { useEffect, useState } from "react";
 
-export default function ListPaises({ paises, setShow }) {
+export default function ListF1({ items, setShow }) {
   const toTitle = (str) => {
     return str.charAt(0).toUpperCase() + str.substr(1).toLowerCase();
   };
   return (
     <div>
-      {paises
+      {items
         .sort((a, b) => {
           if (a.nombre > b.nombre) {
             return 1;
@@ -18,7 +18,7 @@ export default function ListPaises({ paises, setShow }) {
           return (
             <>
               <p className="text-3xl my-3">
-                {index + 1}. {toTitle(i.nombre) + " " + i.año}
+                {index + 1}. {toTitle(i.nombre) + " " + i.tipo}
               </p>
             </>
           );

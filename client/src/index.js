@@ -2,8 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
 import Home from "./routes/Home";
-import Jugadores from "./routes/Jugadores";
-import Paises from "./routes/Paises";
+import F1 from "./routes/F1";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -17,12 +16,8 @@ const router = createBrowserRouter([
         element: <Home />,
       },
       {
-        path: "jugadores",
-        element: <Jugadores />,
-      },
-      {
-        path: "paises",
-        element: <Paises />,
+        path: "f1",
+        element: <F1 />,
       },
     ],
   },

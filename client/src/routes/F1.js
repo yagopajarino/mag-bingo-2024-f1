@@ -1,12 +1,12 @@
 import api from "../api/api";
 import { useEffect, useState } from "react";
-import TileJugador from "../components/TileJugador";
-import ListJugadores from "../components/ListJugadores";
+import TileF1 from "../components/TileF1";
+import ListF1 from "../components/ListF1";
 
-export default function Jugadores() {
-  const [jug, setJug] = useState(-1);
+export default function F1() {
+  const [item, setItem] = useState(-1);
   const [init, setInit] = useState(false);
-  const [jugadores, setJugadores] = useState([]);
+  const [items, setItems] = useState([]);
   const [index, setIndex] = useState(0);
   const [img, setImg] = useState("");
   const [salidos, setSalidos] = useState([]);
@@ -14,16 +14,16 @@ export default function Jugadores() {
 
   // Effects debbug
   useEffect(() => {
-    console.log(jug);
-  }, [jug]);
+    console.log(item);
+  }, [item]);
 
   useEffect(() => {
     console.log(index);
   }, [index]);
 
   useEffect(() => {
-    console.log(jugadores);
-  }, [jugadores]);
+    console.log(items);
+  }, [items]);
 
   useEffect(() => {
     console.log(salidos);
@@ -32,37 +32,37 @@ export default function Jugadores() {
 
   useEffect(() => {
     const getPlayers = async () => {
-      const data = await api.jugadores.getJugadores();
-      setJugadores(data);
+      const data = await api.f1.getAll();
+      setItems(data);
     };
     getPlayers();
   }, []);
 
   useEffect(() => {
-    if (jugadores.length > 0) {
-      setJug(jugadores[0]);
+    if (items.length > 0) {
+      setItem(items[0]);
     }
-  }, [jugadores]);
+  }, [items]);
 
   useEffect(() => {
-    if (jugadores.length > 0) {
-      setJug(jugadores[index]);
+    if (items.length > 0) {
+      setItem(items[index]);
     }
   }, [index]);
 
   useEffect(() => {
     const getImage = async () => {
-      const data = await api.jugadores.getFoto(jug.Nombre);
+      const data = await api.f1.getFoto(item.id);
       setImg(data);
     };
     getImage();
-    if (jug != -1) {
-      setSalidos([...salidos, jug]);
+    if (item != -1) {
+      setSalidos([...salidos, item]);
     }
-  }, [jug]);
+  }, [item]);
 
   const sigJugador = () => {
-    if (index < jugadores.length - 1) {
+    if (index < items.length - 1) {
       setIndex(index + 1);
     }
   };
@@ -75,15 +75,15 @@ export default function Jugadores() {
     <div>
       {init ? (
         showSalidos ? (
-          <ListJugadores jugadores={salidos} setShow={setShowSalidos} />
+          <ListF1 items={salidos} setShow={setShowSalidos} />
         ) : (
           <div className="flex flex-col items-center">
-            <TileJugador jugador={jug} img={img} />
+            <TileF1 item={item} img={img} />
             <button onClick={sigJugador} className="w-1/3">
-              Próximo jugador
+              Siguiente
             </button>
             <button onClick={verSalidos} className="w-1/3 mt-3">
-              Ver jugadores que salieron
+              Ver todos
             </button>
           </div>
         )
